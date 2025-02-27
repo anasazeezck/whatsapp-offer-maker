@@ -3,3 +3,4 @@ requests
 rembg
 Pillow
 gunicorn
+onnxruntime
